@@ -20,7 +20,12 @@ Dieses kurze Spiel führt in die Grundbegriffe der Bibliometrie ein. In der Bibl
 Dann mal los! Viel Spaß mit der Geschichte...
 
 ## Ein Geist weht dich an
-Letzte Woche ist endlich ist die ersehnte Mail gekommen: du hast wirklich einen Platz im Masterstudiengang Data Science bekommen. Uff, das war knapp. Die nächsten vier Jahre wirst du nun also in diesem ziemlich überschaubaren Städtchen verbringen. Ooookey, zumindest ein nettes Cafe hast du schon entdeckt und ein Kino scheint es auch zu geben. Die Basics sind schon mal vorhanden.
+
+> "Mancher gilt für geistreich, der nur ein gutes Gedächtnis für den Geist der andern hat."
+>
+> -- Peter Sirius (Quelle: Sirius, Tausend und Ein Gedanken, 1899)
+
+Letzte Woche ist endlich die ersehnte Mail gekommen: du hast wirklich einen Platz im Masterstudiengang Data Science bekommen. Puh, das war knapp. Die nächsten vier Jahre wirst du nun also in diesem ziemlich überschaubaren Städtchen verbringen. Ooookey, zumindest ein nettes Cafe hast du schon entdeckt und ein Kino scheint es auch zu geben. Die Basics sind schon mal vorhanden.
 
 Um zu schauen, was es sonst noch gibt, hast du dich für diese Stadtführung angemeldet - eine Nacht-Führung durch die Altstadt. Die Gassen werden im Laufe der Führung immer enger, die Häuser windschiefer. Durch eine Tür aus dickem Eichenholz betretet ihr eine alte Druckerei. Euer Guide fängt an zu erzählen. Jaja, die Erfindung des Buchdrucks veränderte die Gesellschaft des 16. Jahrhunderts genauso radikal wie uns vor zwanzig Jahren das Internet, das weißt du schon.
 
@@ -32,13 +37,46 @@ Dein Blick bleibt an einer offenen Tür hängen. Du bückst dich durch den tiefe
 
 Bebend vor Zorn fuchtelt Franz vor deinem Gesicht herum. "Weil niemand schrieb, dass er mich meinte. Alle bauen sie auf meinen Gedanken auf, aber keiner spricht es aus: Auf diesen formidablen Gedanken brachten mich die Ausführungen von F.C.Hofmann. Und nur, weil ich nicht in diesem Allerwelts-Blatt meine Theorien veröffentliche, sondern in meinem eigenen, kleinen Journal." Franz redet sich mit jedem Wort mehr in Rage.
 
-"Aber du, junger Studiosus, du wirst mir helfen, endlich zur verdienten Anerkennung zu gelangen." "Ich? Aber wie?" entgegnest du verblüfft. "Das wirst du schon herausfinden!" Damit schmeißt er die Tür zu und du stehst im Dunklen. Schnell schaltest du die Lampe an deinem Handy an.
+"Aber du, junger Studiosus, du wirst mir helfen, endlich zur verdienten Anerkennung zu gelangen." "Ich? Aber wie?" entgegnest du verblüfft. "Das wirst du schon herausfinden!" Damit schmeißt er die Tür zu und du stehst im Dunklen. Schnell schaltest du die Lampe an deinem Handy an. Offenbar hast du nun ein paar Aufgaben zu lösen, bevor du hier wieder raus kommst...
 
-## Zittrige Zitationen
+## Zitierte Zitationen
+
+Peer Review Verfahren
+- dauern lange
+- sind subjektiv?
+
+Löse das Puzzle und bekomme einen Hinweis zum Öffnen der Tür:
+
+??[Puzzle](https://www.jigidi.com/solve/wkiwcpnp/5129607997-6fb814ef1b-o/?utm_source=em)
+
 
 ## Hochangesehene Zeitschriften
+![Zeitschriftenartikel](https://openclipart.org/image/300px/66667)
 
-## Ein wichtiger Hirsch
+## Ein relevanter Hirsch
+Du möchtest also herausfinden, ob F.C. Hofmann sehr angesehen war und einen relevanten Beitrag zum wissenschaftlichen Diskurs seiner Zeit geleistet hat. Dafür können zwei Werte betrachtet werden:
+
+1. Die Anzahl der Publikationen - Wie viele Artikel, Bücher oder Vorträge wurden von dieser Person veröffentlicht?
+2. Die Anzahl der Zitationen - Wie oft wurden Publikationen dieser Person zitiert?
+
+![Hirsch](https://openclipart.org/image/200px/307364) Der [Hirsch-Index](https://de.wikipedia.org/wiki/H-Index) - oft nur h-Index genannt - verbindet diese beiden Werte miteinander und wird zur Messung des wissenschaftlichen Impacts von Autor:innen angewandt. Dafür werden Publikationen und deren Zitationen in einer Liste geordnet. Dann wird die letzte Publikation in der Liste gesucht, bei der die Rangzahl noch nicht über der Zahl der Zitationen liegt. Der h-index von Autor:innen wird in mehreren Datenbanken bei dem Profil von Forschenden abgebildet, z.B. bei [google scholar](https://scholar.google.com/citations?user=2cpal78AAAAJ&hl=de&oi=ao).
+
+Obwohl der h-Index als ziemlich aussagekräftig gilt, gibt es mehrere Kritikpunkte. Jüngere Forschende haben z.B. meistens weniger publiziert, als Forschende mit langer Wissenschaftslaufbahn und haben so automatisch einen niedrigeren Index. Außerdem könnte der Index durch Selbstzitationen manipuliert werden und je nach Datenquelle kann der Index sogar variieren.
+
+Aber irgendetwas musst du dem alten Zausel ja vorlegen. Du schaust dich um. Hinter dem Schreibtisch steht ein Schrank mit vielen Schubladen. In den Schubladen befinden sich viele Karteikarten, die in akkurater Handschrift beschrieben sind. Auf einigen gelben sind die Publikation von F.C.Hofmann vermerkt. Auf viel mehr blauen Karten hat der Forscher festgehalten, wenn andere Forschende seine Publikationen erwähnt haben. Du nimmst einige Karten hinaus und versuchst den h-Index zu errechnen:
+
+| **Publikationen** | **Zitationen** |
+| Nr. 1 | 11 Zitationen |
+| Nr. 2 | 6 Zitationen |
+| Nr. 3 | 5 Zitationen |
+| Nr. 4 | 3 Zitationen |
+| Nr. 5 | 1 Zitationen |
+
+Welchen h-Index hätte F.C. Hofmann demnach?
+
+[(X)] h = 3 (Merke dir den Buchstaben G)
+[( )] h = 4 (Merke dir den Buchstaben G)
+[( )] h = 5 (Merke dir den Buchstaben G)
 
 ## Alternative Abstände
 
@@ -54,6 +92,7 @@ Hat es geklappt? Dann tritt durch die Tür und lies die Geschichte zu Ende...
 ![Ghost front](https://upload.wikimedia.org/wikipedia/commons/2/27/Door.luxory_best.jpg "Door.luxory_best.jpg von Memarist1370 unter CC BY SA 4.0")
 
 ## Zurück in die Zukunft
+
 Die Tür springt auf. Dahinter schwebt ein leicht zerknirschter Franz Caspar Hofmann und nuschelt: "Es ist an der Zeit, Reue zu zeigen. Ich habe dem Überbringer der Nachricht gezürnt, nicht dem Verursacher. Verzeiht." Eher amüsiert als sauer entgegnest du: "Schon ok. Ich hab mir was überlegt."
 
 "Ich werde meine Professorin fragen, ob ich ein kleines Forschungsprojekt übernehmen kann. Ich möchte in den [Datenbanken von digitalisierten Journalen und Nachlässen](https://www.uni-goettingen.de/de/ausgew%C3%A4hlte+datenbanken+%26+sammlungen/633075.html) nach deinem Namen recherchieren. Heute können wir mit computergestützter Datenanalyse Verbindungen erkennen und Netzwerke visualisieren. Die Digital Humanities haben enorme Fortschritte gemacht."
@@ -65,6 +104,9 @@ Am alten Rathaus holst du deine Gruppe ein. Den Erläuterungen deines Guides kan
 
 ## Abbildungen
 - S.1 Geist: via openclipart.org unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
-- S.2 Rechenmaschine: [Leibniz Rechenmaschine (1690)](https://commons.wikimedia.org/wiki/File:Leibniz_Rechenmaschine_(1690).jpg) von Hajotthu unter [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en)
-- S.7 Tür: [File:Door.luxory best.jpg](https://commons.wikimedia.org/wiki/File:Door.luxory_best.jpg) von Memarist1370 unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
-- S.8 Relief: [File:Geschichtsfries am Neuen Rathaus Hannover, 1700, Kurfürstin Sophie setzt Gottfried Wilhelm Leibniz den Lorbeerkranz auf, Karl Gundelach.jpg](https://commons.wikimedia.org/wiki/File:Geschichtsfries_am_Neuen_Rathaus_Hannover,_1700,_Kurf%C3%BCrstin_Sophie_setzt_Gottfried_Wilhelm_Leibniz_den_Lorbeerkranz_auf,_Karl_Gundelach.jpg) von Bernd Schwabe in Hannover unter [CC BY-SA](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+- S.2 Rechenmaschine: [Leibniz Rechenmaschine (1690)](https://commons.wikimedia.org/wiki/File:Leibniz_Rechenmaschine_1690.jpg) von Hajotthu unter [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en)
+- S.3 Puzzle: [Citation needed](https://flickr.com/photos/87913776@N00/5129607997/) von [futureatlas.com](https://flickr.com/photos/87913776@N00/) unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+- S.4 Zeitschriftenartikel: via openclipart.org unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- S.5 Hirsch: via openclipart.org unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- S.7 Tür: [Door.luxory best.jpg](https://commons.wikimedia.org/wiki/File:Door.luxory_best.jpg) von Memarist1370 unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+- S.8 Relief: [Geschichtsfries am Neuen Rathaus Hannover, 1700, Kurfürstin Sophie setzt Gottfried Wilhelm Leibniz den Lorbeerkranz auf, Karl Gundelach.jpg](https://commons.wikimedia.org/wiki/File:Geschichtsfries_am_Neuen_Rathaus_Hannover,_1700,_Kurf%C3%BCrstin_Sophie_setzt_Gottfried_Wilhelm_Leibniz_den_Lorbeerkranz_auf,_Karl_Gundelach.jpg) von Bernd Schwabe in Hannover unter [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
