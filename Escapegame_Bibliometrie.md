@@ -9,13 +9,12 @@ comment: Das Escapegame Bibliometrie steht unter der CC BY SA 4.0 Lizenz
 # Der Geist, der dich anweht. Ein Escapegame zum Thema Bibliometrie
 Dieses kurze Spiel führt in die Grundbegriffe der Bibliometrie ein. In der Bibliometrie geht es um eine mögliche Einschätzung von wissenschaftlichen Publikationen durch Messen und Vergleichen von Zitationen. Dabei werden folgende Fragen behandelt:
 
-- Warum sind Zitate in der Wissenschaft so elementar?
+- Warum sind Zitationen in der Wissenschaft so elementar?
 - Wie erkenne ich eine "wichtige" Zeitschrift?
-- Kann ich die Relevanz eines Artikels aus der Anzahl von Zitationen beurteilen?
 - Wie finde ich Expert:innen zu einem bestimmten Thema?
 - Wie wird das Publikationsverhalten von Wissenschaftler:innen durch bibliometrische Verfahren beeinflusst?
 
-![Geist](https://openclipart.org/image/200px/163945) Dieses Spiel ist in Anlehnung eines Escapegames entwickelt worden. Anders als in klassischen Esacapegames läuft hier keine Zeit ab und du kannst die einzelnen Stationen in aller Ruhe ablaufen. Das gesamte Spiel dauert ca. XXX Min. Wenn du den weiterführenden Links folgst, kann es zwar ein wenig länger dauern, aber du erfährst auch mehr ;-)
+![Geist](https://openclipart.org/image/150px/163945) Dieses Spiel ist in Anlehnung eines Escapegames entwickelt worden. Anders als in klassischen Esacapegames läuft hier keine Zeit ab und du kannst die einzelnen Stationen in aller Ruhe ablaufen. Das gesamte Spiel dauert ca. XXX Min. Wenn du den weiterführenden Links folgst, kann es zwar ein wenig länger dauern, aber du erfährst auch mehr ;-)
 
 Dann mal los! Viel Spaß mit der Geschichte...
 
@@ -45,21 +44,31 @@ Peer Review Verfahren
 - dauern lange
 - sind subjektiv?
 
-Löse das Puzzle und bekomme einen Hinweis zum Öffnen der Tür:
+Damit du F.C.Hofmann beweisen kannst, dass er zumindest in seiner Zeit ein angesehener Forscher war, musst du nachweisen, dass sich andere Forschende auf seine Erkenntnisse bezogen haben. Löse das Puzzle und du bekommst einen Hinweis zum Öffnen der Tür:
 
 ??[Puzzle](https://www.jigidi.com/solve/wkiwcpnp/5129607997-6fb814ef1b-o/?utm_source=em)
 
 
-## Hochangesehene Zeitschriften
-![Zeitschriftenartikel](https://openclipart.org/image/300px/66667)
+## Einschlagende Zeitschriften
+![Zeitschriftenartikel](https://openclipart.org/image/100px/66667)Rumms. Beim Aufstehen stößt du an einen wackeligen Stapel aus Büchern und Zeitschriften. Ob du hier die gesuchten Zitationen findest? Aber woher weißt du, ob es sich um wirklich relevante Zeitschriften dieser Zeit handelt? Schließlich sind sie mit der Erfindung des Buchdrucks wie Pilze aus dem Boden geschossen und jeder Fürst hat sich sein eigenes Blatt gehalten.
+
+Heute wird zur Einschätzung einer wissenschaftlichen Zeitschrift der so genannte "Journal Impact Factor (JIF)" gebildet. Für viele Verlage ist der JIF ein Qualitätsmerkmal, mit dem Zeitschriften beworben werden. Dafür werden alle Artikel gezählt, die in einer Zeitschrift in den letzten zwei Jahren veröffentlicht wurden. Die Zahl der Artikel wird mit der Anzahl von Zitationen dieser Artikel im selben Zeitraum ins Verhältnis gesetzt.
+
+Im folgenden Video der Unibibliothek Gießen wird die Rechnung noch einmal erklärt. Außerdem werden einige kritische Punkte am Journal Impact Factor angesprochen. Diese und weitere Kritikpunkte diskutieren auch Lariviere und Sugimoto in einem [Buchkapitel](https://arxiv.org/ftp/arxiv/papers/1801/1801.08992.pdf).
+
+!?[Video Journal Impact Factor](ImpactFactor.mp4)
+
+Beim Durchsuchen der Zeitschriften findest du in einer der Zeitschriften ein Wortgitter. Die Zeitschrift "Der güldene Erfinder" ist anscheinend weniger wissenschaftlich ausgerichtet :-D Egal, du brauchst mal ne Denkpause und löst das Rätsel.
+
+??[Wortgitter](https://learningapps.org/watch?v=ped90cx8321)
 
 ## Ein relevanter Hirsch
-Du möchtest also herausfinden, ob F.C. Hofmann sehr angesehen war und einen relevanten Beitrag zum wissenschaftlichen Diskurs seiner Zeit geleistet hat. Dafür können zwei Werte betrachtet werden:
+Der Journal Impact Factor kann also messen, ob eine Zeitschrift in einem Fachgebiet relevant ist. Aber eigentlich möchtest du ja wissen, ob F.C. Hofmann als Forscher sehr angesehen war und einen großen Beitrag zum wissenschaftlichen Diskurs seiner Zeit geleistet hat. Dafür können zwei Werte betrachtet werden:
 
 1. Die Anzahl der Publikationen - Wie viele Artikel, Bücher oder Vorträge wurden von dieser Person veröffentlicht?
 2. Die Anzahl der Zitationen - Wie oft wurden Publikationen dieser Person zitiert?
 
-![Hirsch](https://openclipart.org/image/200px/307364) Der [Hirsch-Index](https://de.wikipedia.org/wiki/H-Index) - oft nur h-Index genannt - verbindet diese beiden Werte miteinander und wird zur Messung des wissenschaftlichen Impacts von Autor:innen angewandt. Dafür werden Publikationen und deren Zitationen in einer Liste geordnet. Dann wird die letzte Publikation in der Liste gesucht, bei der die Rangzahl noch nicht über der Zahl der Zitationen liegt. Der h-index von Autor:innen wird in mehreren Datenbanken bei dem Profil von Forschenden abgebildet, z.B. bei [google scholar](https://scholar.google.com/citations?user=2cpal78AAAAJ&hl=de&oi=ao).
+![Hirsch](https://openclipart.org/image/150px/194169)Der [Hirsch-Index](https://de.wikipedia.org/wiki/H-Index) - oft nur h-Index genannt - verbindet diese beiden Werte miteinander und wird zur Messung des wissenschaftlichen Impacts von Autor:innen angewandt. Dafür werden Publikationen und deren Zitationen in einer Liste geordnet. Dann wird die letzte Publikation in der Liste gesucht, bei der die Rangzahl noch nicht über der Zahl der Zitationen liegt. Der h-index von Autor:innen wird in mehreren Datenbanken bei dem Profil von Forschenden abgebildet, z.B. bei [google scholar](https://scholar.google.com/citations?user=2cpal78AAAAJ&hl=de&oi=ao).
 
 Obwohl der h-Index als ziemlich aussagekräftig gilt, gibt es mehrere Kritikpunkte. Jüngere Forschende haben z.B. meistens weniger publiziert, als Forschende mit langer Wissenschaftslaufbahn und haben so automatisch einen niedrigeren Index. Außerdem könnte der Index durch Selbstzitationen manipuliert werden und je nach Datenquelle kann der Index sogar variieren.
 
@@ -78,6 +87,8 @@ Welchen h-Index hätte F.C. Hofmann demnach?
 [( )] h = 4 (Merke dir den Buchstaben G)
 [( )] h = 5 (Merke dir den Buchstaben G)
 
+https://openclipart.org/image/200px/307364
+
 ## Alternative Abstände
 
 ## Öffne die Tür
@@ -89,7 +100,7 @@ Hast du alle Lösungen gefunden? Verbinde die Buchstaben zu einem geflügelten W
 
 Hat es geklappt? Dann tritt durch die Tür und lies die Geschichte zu Ende...
 
-![Ghost front](https://upload.wikimedia.org/wikipedia/commons/2/27/Door.luxory_best.jpg "Door.luxory_best.jpg von Memarist1370 unter CC BY SA 4.0")
+![Ghost front](https://upload.wikimedia.org/wikipedia/commons/2/27/Door.luxory_best.jpg)
 
 ## Zurück in die Zukunft
 
@@ -107,6 +118,7 @@ Am alten Rathaus holst du deine Gruppe ein. Den Erläuterungen deines Guides kan
 - S.2 Rechenmaschine: [Leibniz Rechenmaschine (1690)](https://commons.wikimedia.org/wiki/File:Leibniz_Rechenmaschine_1690.jpg) von Hajotthu unter [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/deed.en)
 - S.3 Puzzle: [Citation needed](https://flickr.com/photos/87913776@N00/5129607997/) von [futureatlas.com](https://flickr.com/photos/87913776@N00/) unter [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 - S.4 Zeitschriftenartikel: via openclipart.org unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+- S.4 Video: [Impact Factor - Was ist er und wie berechnet er sich?](https://www.youtube.com/watch?v=coXNA7pzZ9M) von  Universitätsbibliothek der Justus-Liebig-Universität Gießen unter [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/legalcode)
 - S.5 Hirsch: via openclipart.org unter [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
 - S.7 Tür: [Door.luxory best.jpg](https://commons.wikimedia.org/wiki/File:Door.luxory_best.jpg) von Memarist1370 unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 - S.8 Relief: [Geschichtsfries am Neuen Rathaus Hannover, 1700, Kurfürstin Sophie setzt Gottfried Wilhelm Leibniz den Lorbeerkranz auf, Karl Gundelach.jpg](https://commons.wikimedia.org/wiki/File:Geschichtsfries_am_Neuen_Rathaus_Hannover,_1700,_Kurf%C3%BCrstin_Sophie_setzt_Gottfried_Wilhelm_Leibniz_den_Lorbeerkranz_auf,_Karl_Gundelach.jpg) von Bernd Schwabe in Hannover unter [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
