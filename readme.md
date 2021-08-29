@@ -4,6 +4,6 @@ Es ist als Projektarbeit für den [Zertifikatskurs Data Librarian](https://www.t
 
 Das Lernmodul kann über [LiaScript](https://liascript.github.io/course/?https://raw.githubusercontent.com/Siczer/Escapegame_Bibliometrie/master/Escapegame_Bibliometrie.md#1) abgerufen und durchgeführt werden.
 
-Hintergründe und Vorgehen sind in der Datei XXX beschrieben.
+Hintergründe und Vorgehen sind in der Datei Projektbericht beschrieben.
 
 Das Lernmodul steht unter der Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
